@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etykiety danych osi X",
 	"Visual_YAxis": "Etykiety danych osi Y",
 	"Visual_MaxTextSymbols": "Maksymalna liczba symboli tekstu",
-	"Visual_Description_DisplayAllLabelsAnyway": "Wyświetl wszystkie etykiety mimo wszystko"
+	"Visual_Description_DisplayAllLabelsAnyway": "Wyświetl wszystkie etykiety mimo wszystko",
+	"Heatmap_Short_Description": "Porównuj dane łatwo i intuicyjnie przy użyciu kolorów w tabeli",
+	"Heatmap_Long_Description": "Ta niestandardowa wizualizacja umożliwia kompilowanie mapy cieplnej w postaci tabeli, której można używać do wizualizowania i porównywania wartości danych w łatwy i intuicyjny sposób.\nTa wizualizacja oferuje wbudowaną opcję określania liczby przedziałów używanych do dzielenia danych.\nPonadto można też dostosowywać ją, wybierając schemat kolorów zgodny z kolorami marki"
 }

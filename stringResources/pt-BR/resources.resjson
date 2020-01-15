@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Rótulos de dados do eixo x",
 	"Visual_YAxis": "Rótulos de dados do eixo y",
 	"Visual_MaxTextSymbols": "Símbolos de texto máximo",
-	"Visual_Description_DisplayAllLabelsAnyway": "Exibir todos os rótulos mesmo assim"
+	"Visual_Description_DisplayAllLabelsAnyway": "Exibir todos os rótulos mesmo assim",
+	"Heatmap_Short_Description": "Comparar dados de modo fácil e intuitivo usando cores em uma tabela",
+	"Heatmap_Long_Description": "Use esse visual personalizado para criar um mapa de calor de tabela que pode ser usado para visualizar e comparar os valores de dados de uma maneira fácil e intuitiva.\nVocê tem uma opção interna dentro deste visual para especificar o número de buckets usado para dividir os seus dados.\nAlém disso, você pode também personalizá-lo escolhendo um esquema de cores alinhado com as cores da sua marca"
 }

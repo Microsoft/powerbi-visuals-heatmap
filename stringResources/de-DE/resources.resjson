@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Bezeichnungen für X-Achsendaten",
 	"Visual_YAxis": "Bezeichnungen für Y-Achsendaten",
 	"Visual_MaxTextSymbols": "Max. Textsymbole",
-	"Visual_Description_DisplayAllLabelsAnyway": "Dennoch alle Bezeichnungen anzeigen"
+	"Visual_Description_DisplayAllLabelsAnyway": "Dennoch alle Bezeichnungen anzeigen",
+	"Heatmap_Short_Description": "Hiermit vergleichen Sie Daten mithilfe von Farben in einer Tabelle problemlos und intuitiv miteinander.",
+	"Heatmap_Long_Description": "Verwenden Sie dieses benutzerdefinierte Visual, um ein Tabellenwärmebild zu erstellen, mit dem sich Datenwerte ganz einfach und intuitiv visualisieren und vergleichen lassen.\nDieses Visual bietet eine integrierte Option, mit der Sie die Anzahl von Buckets angeben können, die zum Aufteilen Ihrer Daten verwendet werden.\nDarüber hinaus können Sie das Visual auch anpassen, indem Sie ein Farbschema auswählen, das Ihren Markenfarben entspricht."
 }

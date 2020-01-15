@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X-axelns dataetiketter",
 	"Visual_YAxis": "Y-axelns dataetiketter",
 	"Visual_MaxTextSymbols": "Max text symbold",
-	"Visual_Description_DisplayAllLabelsAnyway": "Visa alla etiketter ändå"
+	"Visual_Description_DisplayAllLabelsAnyway": "Visa alla etiketter ändå",
+	"Heatmap_Short_Description": "Jämför data enkelt och intuitivt med färger i en tabell",
+	"Heatmap_Long_Description": "Använd det här anpassade visuella objektet för att skapa en termisk tabellkarta som kan användas för att visualisera och jämföra datavärden på ett enkelt och intuitivt sätt.\nDu har ett inbyggt alternativ i det här visuella objektet för att ange antalet buckets som används för att dela upp dina data.\nDessutom kan du anpassa den genom att välja ett färgschema med dina varumärkesfärger"
 }

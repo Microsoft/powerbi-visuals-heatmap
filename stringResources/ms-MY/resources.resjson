@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Label data paksi X",
 	"Visual_YAxis": "Label data paksi Y",
 	"Visual_MaxTextSymbols": "Simbol teks maksimum",
-	"Visual_Description_DisplayAllLabelsAnyway": "Paparkan juga semua label"
+	"Visual_Description_DisplayAllLabelsAnyway": "Paparkan juga semua label",
+	"Heatmap_Short_Description": "Bandingkan data dengan mudah dan intuitif menggunakan warna dalam jadual",
+	"Heatmap_Long_Description": "Gunakan visual tersuai ini untuk membina peta haba jadual yang boleh digunakan untuk memvisualisasikan dan membandingkan nilai data dengan cara yang mudah dan intuitif.\nAnda mempunyai pilihan terbina dalam visual ini untuk menentukan bilangan baldi yang digunakan untuk memecah data anda.\nDi tambahan, anda juga boleh menyesuaikannya dengan memilih skema warna sejajar dengan warna jenama anda"
 }

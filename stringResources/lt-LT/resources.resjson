@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X ašies duomenų žymos",
 	"Visual_YAxis": "Y ašies duomenų žymos",
 	"Visual_MaxTextSymbols": "Didžiausias teksto simbolių skaičius",
-	"Visual_Description_DisplayAllLabelsAnyway": "Vis tiek rodyti visas žymas"
+	"Visual_Description_DisplayAllLabelsAnyway": "Vis tiek rodyti visas žymas",
+	"Heatmap_Short_Description": "Naudodami spalvas lengvai ir intuityviai lentelėje lyginkite duomenis",
+	"Heatmap_Long_Description": "Naudodami šį pasirinktinį vaizdinį elementą, galite sukurti lentelės spalvų intensyvumo žemėlapį, kurį naudojant galima lengvai ir intuityviai vizualizuoti bei palyginti duomenų reikšmes.\nŠiame vaizdiniame elemente integruota parinktis nurodyti talpyklų, naudojamų duomenims skaidyti, skaičių.\nBe to, galite jį tinkinti pasirinkdami spalvų schemą, atitinkančią jūsų prekės ženklo spalvas"
 }

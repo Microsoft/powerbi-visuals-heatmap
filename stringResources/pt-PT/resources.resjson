@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etiquetas de dados do eixo X",
 	"Visual_YAxis": "Etiquetas de dados do eixo Y",
 	"Visual_MaxTextSymbols": "Máximo de símbolos de texto",
-	"Visual_Description_DisplayAllLabelsAnyway": "Mostrar todas as etiquetas mesmo assim"
+	"Visual_Description_DisplayAllLabelsAnyway": "Mostrar todas as etiquetas mesmo assim",
+	"Heatmap_Short_Description": "Compare dados fácil e intuitivamente, com recurso a cores numa tabela",
+	"Heatmap_Long_Description": "Utilize este visual personalizado para criar um mapa térmico de tabela que pode ser utilizado para visualizar e comparar valores de dados de uma forma fácil e intuitiva.\nTem uma opção incorporada dentro deste visual para especificar o número de registos a utilizar para dividir os dados.\nAlém disso, pode também personalizá-la ao selecionar um esquema de cor em conformidade com as cores da sua marca"
 }

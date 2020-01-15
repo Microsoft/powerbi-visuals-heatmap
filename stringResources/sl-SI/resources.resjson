@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Podatkovne oznake na osi X",
 	"Visual_YAxis": "Podatkovne oznake na osi Y",
 	"Visual_MaxTextSymbols": "ID simbola najdaljšega besedila",
-	"Visual_Description_DisplayAllLabelsAnyway": "Vseeno prikaži vse oznake"
+	"Visual_Description_DisplayAllLabelsAnyway": "Vseeno prikaži vse oznake",
+	"Heatmap_Short_Description": "Preprosta in intuitivna primerjava podatkov z barvami v tabeli",
+	"Heatmap_Long_Description": "Uporabite to ponazoritev po meri, da ustvarite toplotni zemljevid tabele, s katerim lahko ponazorite in primerjate podatkovne vrednosti na preprost in intuitiven način.\nTa ponazoritev vključuje vgrajeno delovanje, ki omogoča določanje števila veder, uporabljenih za ločitev podatkov.\nPrav tako jo lahko prilagodite tako, da izberete barvno shemo v skladu z barvami vaše blagovne znamke"
 }

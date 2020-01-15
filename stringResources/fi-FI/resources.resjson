@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X-akselin arvopisteiden otsikot",
 	"Visual_YAxis": "Y-akselin arvopisteiden otsikot",
 	"Visual_MaxTextSymbols": "Tekstin suurin symbold",
-	"Visual_Description_DisplayAllLabelsAnyway": "Näytä kaikki otsikot joka tapauksessa"
+	"Visual_Description_DisplayAllLabelsAnyway": "Näytä kaikki otsikot joka tapauksessa",
+	"Heatmap_Short_Description": "Vertaa tietoja helposti ja intuitiivisesti käyttämällä värejä taulukossa",
+	"Heatmap_Long_Description": "Tämän mukautetun visualisoinnin avulla voit rakentaa taulukon lämpökartan, jota voidaan käyttää tietoarvojen visualisoimiseen ja vertaamiseen helpolla ja intuitiivisella tavalla.\nSinulla on sisäänrakennettu asetus tässä visualisoinnissa määrittää tietojesi jakamiseen käytettävä säilöjen määrä.\nLisäksi voit myös mukauttaa sitä valitsemalla värimallin, joka on tuotemerkkisi värien mukainen"
 }

@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Label data sumbu x",
 	"Visual_YAxis": "Label data sumbu y",
 	"Visual_MaxTextSymbols": "Maks simbol teks",
-	"Visual_Description_DisplayAllLabelsAnyway": "Tetap tampilkan semua label"
+	"Visual_Description_DisplayAllLabelsAnyway": "Tetap tampilkan semua label",
+	"Heatmap_Short_Description": "Bandingkan data dengan mudah dan intuitif menggunakan warna dalam tabel",
+	"Heatmap_Long_Description": "Gunakan visual kustom ini untuk membuat peta panas tabel yang dapat digunakan untuk memvisualisasikan dan membandingkan nilai data dengan cara yang mudah dan intuitif.\nAnda memiliki opsi bawaan dalam visual ini untuk menentukan jumlah wadah yang digunakan untuk memisahkan data.\nSelain itu, Anda juga dapat menyesuaikannya dengan memilih skema warna yang sesuai dengan warna merek Anda"
 }

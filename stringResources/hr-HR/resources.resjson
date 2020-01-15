@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Oznake podataka na osi x",
 	"Visual_YAxis": "Oznake podataka na osi y",
 	"Visual_MaxTextSymbols": "Simboli maks. teksta",
-	"Visual_Description_DisplayAllLabelsAnyway": "Ipak prikaži sve oznake"
+	"Visual_Description_DisplayAllLabelsAnyway": "Ipak prikaži sve oznake",
+	"Heatmap_Short_Description": "Jednostavno i intuitivno usporedite podatke pomoću boja u tablici",
+	"Heatmap_Long_Description": "Pomoću tog prilagođenog vizuala možete stvoriti toplinsku kartu koja omogućuje vizualizaciju i usporedbu podatkovnih vrijednosti na jednostavan i intuitivan način.\nU sklopu tog vizuala dostupna vam je ugrađena mogućnost za navođenje broja grupa koja se koriste za podjelu podataka.\nMožete ga i prilagoditi odabirom odgovarajuće sheme boja u skladu s bojama svoje robne marke"
 }

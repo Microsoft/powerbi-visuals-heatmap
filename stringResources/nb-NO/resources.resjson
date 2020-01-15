@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Dataetiketter på X-aksen",
 	"Visual_YAxis": "Dataetiketter på Y-aksen",
 	"Visual_MaxTextSymbols": "Maks. tekstsymbol",
-	"Visual_Description_DisplayAllLabelsAnyway": "Vis alle etiketter likevel"
+	"Visual_Description_DisplayAllLabelsAnyway": "Vis alle etiketter likevel",
+	"Heatmap_Short_Description": "Enkel og intuitiv sammenligning av data ved hjelp av farger i en tabell",
+	"Heatmap_Long_Description": "Bruk dette egendefinerte visualobjektet til å bygge et tabellvarmekart som kan brukes til å visualisere og sammenligne dataverdier på en enkel og intuitiv måte.\nDette visualobjektet har et innebygd alternativ for å angi hvor mange samlinger som skal brukes til å splitte dataene dine.\nDu kan også tilpasse det ved å velge et fargeoppsett som matcher eget varemerke"
 }

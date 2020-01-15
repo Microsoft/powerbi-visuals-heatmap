@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Gegevenslabels voor de X-as",
 	"Visual_YAxis": "Gegevenslabels voor de Y-as",
 	"Visual_MaxTextSymbols": "Maximaal aantal tekstsymbolen",
-	"Visual_Description_DisplayAllLabelsAnyway": "Alle labels toch weergeven"
+	"Visual_Description_DisplayAllLabelsAnyway": "Alle labels toch weergeven",
+	"Heatmap_Short_Description": "In een tabel gemakkelijk en intuïtief gegevens met behulp van kleuren",
+	"Heatmap_Long_Description": "Gebruik deze aangepaste visual om een tabelhittekaart te maken waarmee u gegevenswaarden op een eenvoudige en intuïtieve manier in beeld brengt en vergelijkt.\nDeze visual bevat een ingebouwde optie waarmee u het aantal buckets kunt opgeven dat wordt gebruikt om uw gegevens op te splitsen.\nDaarnaast kunt u het ook aanpassen door een kleurenschema te kiezen dat overeenkomt met uw merkkleuren"
 }

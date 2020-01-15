@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X 軸データ ラベル",
 	"Visual_YAxis": "Y 軸データ ラベル",
 	"Visual_MaxTextSymbols": "テキスト シンボルの最大数",
-	"Visual_Description_DisplayAllLabelsAnyway": "すべてのラベルを常に表示します"
+	"Visual_Description_DisplayAllLabelsAnyway": "すべてのラベルを常に表示します",
+	"Heatmap_Short_Description": "テーブルで色を使用してデータを簡単かつ直感的に比較します",
+	"Heatmap_Long_Description": "このカスタムの視覚エフェクトを使用して作成するテーブル ヒート マップは、簡単かつ直感的な方法でデータ値を視覚化し、比較するために利用できます。\nこの視覚エフェクトには、データを分割するバケット数を指定する組み込みオプションがあります。\nさらに、自社のブランド カラーに合わせた配色を選んでカスタマイズすることもできます"
 }

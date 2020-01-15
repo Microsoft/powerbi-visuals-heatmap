@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etiquetes de dades de l'eix de les X",
 	"Visual_YAxis": "Etiquetes de dades de l'eix de les Y",
 	"Visual_MaxTextSymbols": "Valor symbold de text màxim",
-	"Visual_Description_DisplayAllLabelsAnyway": "Mostra totes les etiquetes igualment"
+	"Visual_Description_DisplayAllLabelsAnyway": "Mostra totes les etiquetes igualment",
+	"Heatmap_Short_Description": "Compareu dades de manera fàcil i intuïtiva fent servir colors en una taula.",
+	"Heatmap_Long_Description": "Utilitzeu aquest element visual personalitzat per crear un mapa tèrmic de taules que podeu fer servir per visualitzar i comprar valors de dades d'una manera senzilla i intuïtiva.\nDisposeu d'una opció integrada inclosa en aquest element visual per especificar el nombre de cubs emprats per dividir les dades.\nAixí mateix, podeu personalitzar-lo amb un esquema de colors en línia amb els colors de la vostra marca."
 }

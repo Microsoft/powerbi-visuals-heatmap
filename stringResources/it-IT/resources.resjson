@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etichette dati asse X",
 	"Visual_YAxis": "Etichette dati asse Y",
 	"Visual_MaxTextSymbols": "Numero massimo simboli di testo",
-	"Visual_Description_DisplayAllLabelsAnyway": "Visualizza tutte le etichette comunque"
+	"Visual_Description_DisplayAllLabelsAnyway": "Visualizza tutte le etichette comunque",
+	"Heatmap_Short_Description": "Usare i colori in una tabella per confrontare i dati in modo semplice e intuitivo",
+	"Heatmap_Long_Description": "Usare questo oggetto visivo personalizzato per creare una mappa termica sotto forma di tabella che può essere usata per visualizzare e confrontare i valori dei dati in modo semplice e intuitivo.\nIn questo oggetto visivo è presente un'opzione predefinita per specificare il numero di bucket usati per suddividere i dati.\nÈ anche possibile personalizzare l'oggetto visivo scegliendo una combinazione di colori in linea con i colori del proprio marchio."
 }

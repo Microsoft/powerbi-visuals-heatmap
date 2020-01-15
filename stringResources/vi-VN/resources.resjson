@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Nhãn dữ liệu trên trục X",
 	"Visual_YAxis": "Nhãn dữ liệu trên trục Y",
 	"Visual_MaxTextSymbols": "Biểu tượng văn bản đối đa",
-	"Visual_Description_DisplayAllLabelsAnyway": "Vẫn hiển thị tất cả các nhãn"
+	"Visual_Description_DisplayAllLabelsAnyway": "Vẫn hiển thị tất cả các nhãn",
+	"Heatmap_Short_Description": "So sánh dữ liệu một cách dễ dàng và trực quan bằng các màu trong bảng",
+	"Heatmap_Long_Description": "Sử dụng hình ảnh tùy chỉnh này để xây dựng bản đồ nhiệt dạng bảng nhằm mục đích minh họa và so sánh các giá trị dữ liệu theo cách dễ hiểu và trực quan.\nBạn có tùy chọn tích hợp sẵn trong hình ảnh này để xác định số nhóm được dùng để phân tách dữ liệu.\nNgoài ra, bạn cũng có thể tùy chỉnh bản đồ bằng cách chọn bảng phối màu phù hợp với màu sắc thương hiệu của bạn"
 }

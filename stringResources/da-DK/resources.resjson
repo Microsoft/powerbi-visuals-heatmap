@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Dataetiketter for X-akse",
 	"Visual_YAxis": "Dataetiketter for Y-akse",
 	"Visual_MaxTextSymbols": "Maks. tekstsymboler",
-	"Visual_Description_DisplayAllLabelsAnyway": "Vis alle etiketter alligevel"
+	"Visual_Description_DisplayAllLabelsAnyway": "Vis alle etiketter alligevel",
+	"Heatmap_Short_Description": "Sammenlign data let og intuitivt ved hjælp af farver i en tabel",
+	"Heatmap_Long_Description": "Brug denne brugerdefinerede illustration til at bygge en tabel med et termisk kort, der kan bruges til at visualisere og sammenligne dataværdier på en nem og intuitiv måde.\nDu har en indbygget indstilling inden for dette visuelle element for at angive antallet af buckets, der bruges til at opdele dine data.\nDesuden kan du også tilpasse den ved at vælge et farvelag oversigt i overensstemmelse med farverne på dine brands"
 }

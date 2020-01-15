@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etiquetas de datos do eixe X",
 	"Visual_YAxis": "Etiquetas de datos do eixe Y",
 	"Visual_MaxTextSymbols": "Símbolo de texto máximo",
-	"Visual_Description_DisplayAllLabelsAnyway": "Mostrar etiquetas de todas formas"
+	"Visual_Description_DisplayAllLabelsAnyway": "Mostrar etiquetas de todas formas",
+	"Heatmap_Short_Description": "Compare datos de xeito sinxelo e intuitivo mediante cores nunha táboa.",
+	"Heatmap_Long_Description": "Use este elemento visual personalizado para crear un mapa térmico de táboa que se pode usar para visualizar e comparar valores de datos dun xeito sinxelo e intuitivo.\nTen unha opción incorporada neste elemento visual para especificar o número de viñetas que se usan para dividir os datos.\nAdemais, tamén pode personalizalo se escolle un esquema de cores acorde ao da súa marca."
 }

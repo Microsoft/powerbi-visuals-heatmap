@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X 轴数据标签",
 	"Visual_YAxis": "Y 轴数据标签",
 	"Visual_MaxTextSymbols": "最大文本符号",
-	"Visual_Description_DisplayAllLabelsAnyway": "仍显示所有标签"
+	"Visual_Description_DisplayAllLabelsAnyway": "仍显示所有标签",
+	"Heatmap_Short_Description": "使用表中的颜色轻松直观地比较数据",
+	"Heatmap_Long_Description": "使用此自定义视觉对象生成可用于以简单直观的方式可视化和比较数据值的表热度地图。\n使用此视觉对象中的内置选项来指定用于拆分数据的存储桶数。\n此外，还可以通过选择符合品牌颜色的配色方案对其进行自定义"
 }

@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X tengely adatfeliratai",
 	"Visual_YAxis": "Y tengely adatfeliratai",
 	"Visual_MaxTextSymbols": "Max. szöveges szimbólum",
-	"Visual_Description_DisplayAllLabelsAnyway": "Ennek ellenére az összes felirat megjelenítése"
+	"Visual_Description_DisplayAllLabelsAnyway": "Ennek ellenére az összes felirat megjelenítése",
+	"Heatmap_Short_Description": "Adatok egyszerű és intuitív összehasonlítása színek használatával egy táblázatban",
+	"Heatmap_Long_Description": "Használja ezt az egyéni vizualizációt egy olyan hőtérkép létrehozására, amellyel egyszerű és intuitív módon jeleníthetők meg és hasonlíthatók össze az adatértékek.\nA vizualizációban rendelkezésre áll egy beépített opció, amelyben meghatározhatja az adatok szétosztásához használt gyűjtők számát.\nAz eszköz emellett testre is szabható – a színek megváltoztatásával vállalata színeihez igazíthatja a látványt"
 }

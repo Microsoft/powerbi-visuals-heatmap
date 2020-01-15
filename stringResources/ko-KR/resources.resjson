@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X 축 데이터 레이블",
 	"Visual_YAxis": "Y 축 데이터 레이블",
 	"Visual_MaxTextSymbols": "최대 텍스트 symbold",
-	"Visual_Description_DisplayAllLabelsAnyway": "모든 레이블 표시"
+	"Visual_Description_DisplayAllLabelsAnyway": "모든 레이블 표시",
+	"Heatmap_Short_Description": "표의 색상을 사용하여 데이터를 직관적이면서도 간단하게 비교합니다.",
+	"Heatmap_Long_Description": "이 사용자 지정 개체를 사용하여 쉽고 직관적인 방법으로 데이터 값을 시각화하고 비교하는 데 사용할 수 있는 테이블 열 지도를 제작해 보세요.\n이 시각적 개체에는 데이터를 분할하는 데 사용되는 버킷의 수를 지정할 수 있는 옵션이 기본적으로 제공됩니다.\n또한 브랜드 색상과 함께 색 구성표를 선택하여 사용자 지정할 수도 있습니다."
 }

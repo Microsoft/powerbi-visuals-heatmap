@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etichete de date axa X",
 	"Visual_YAxis": "Etichete de date axa Y",
 	"Visual_MaxTextSymbols": "Simbol text maxim",
-	"Visual_Description_DisplayAllLabelsAnyway": "Afișați toate etichetele oricum"
+	"Visual_Description_DisplayAllLabelsAnyway": "Afișați toate etichetele oricum",
+	"Heatmap_Short_Description": "Comparați datele cu ușurință și intuitiv, utilizând culori într-un tabel",
+	"Heatmap_Long_Description": "Utilizați acest element vizual particularizat pentru a construi o hartă termică tabel care poate fi utilizată pentru a vizualiza și a compara valori de date într-un mod ușor și intuitiv.\nAveți o opțiune încorporată în acest element vizual pentru a specifica numărul de bucketuri utilizate pentru scindarea datelor dvs.\nÎn plus, îl puteți personaliza și alegând o schemă de culori aliniată la culorile brandului"
 }

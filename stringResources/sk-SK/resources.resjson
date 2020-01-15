@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Označenia údajov osi X",
 	"Visual_YAxis": "Označenia údajov osi Y",
 	"Visual_MaxTextSymbols": "Maximálny počet symbolov v texte",
-	"Visual_Description_DisplayAllLabelsAnyway": "Napriek tomu zobraziť všetky označenia"
+	"Visual_Description_DisplayAllLabelsAnyway": "Napriek tomu zobraziť všetky označenia",
+	"Heatmap_Short_Description": "Porovnávanie údajov jednoducho a intuitívne pomocou farieb v tabuľke",
+	"Heatmap_Long_Description": "Použite tento vlastný vizuál na vytvorenie tabuľkovej teplotnej mapy, ktorá sa dá použiť na vizualizáciu a porovnanie hodnôt údajov jednoduchým a intuitívnym spôsobom.\nV tomto vizuále máte k dispozícii vstavanú možnosť na určenie počtu kontajnerov používaných na rozdelenie vašich údajov.\nOkrem toho môžete vizuál tiež prispôsobiť výberom farebnej schémy, ktorá bude v súlade s farbami vašej značky."
 }

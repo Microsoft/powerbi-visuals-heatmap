@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X-telje andmesildid",
 	"Visual_YAxis": "Y-telje andmesildid",
 	"Visual_MaxTextSymbols": "Max tekstisümbolid",
-	"Visual_Description_DisplayAllLabelsAnyway": "Kuva siiski kõik sildid"
+	"Visual_Description_DisplayAllLabelsAnyway": "Kuva siiski kõik sildid",
+	"Heatmap_Short_Description": "Võrrelge andmeid hõlpsalt ja intuitiivselt, kasutades tabelis värve",
+	"Heatmap_Long_Description": "Kasutage seda kohandatud visuaali, et koostada tabeli soojuskaart, mida saab kasutada andmeväärtuste visualiseerimiseks ja võrdlemiseks hõlpsal ning intuitiivsel viisil.\nVisuaalis on sisseehitatud suvand, mis võimaldab määrata andmete tükeldamisel kasutatavate salvede arvu.\nSamuti saate seda kohandada, valides oma kaubamärgiga kokkusobivad värvid."
 }

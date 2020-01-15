@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Oznake podataka X ose",
 	"Visual_YAxis": "Oznake podataka Y ose",
 	"Visual_MaxTextSymbols": "Maksimalni broj simbola u tekstu",
-	"Visual_Description_DisplayAllLabelsAnyway": "Ipak prikaži sve oznake"
+	"Visual_Description_DisplayAllLabelsAnyway": "Ipak prikaži sve oznake",
+	"Heatmap_Short_Description": "Lako i intuitivno uporedite podatke pomoću boja u tabeli",
+	"Heatmap_Long_Description": "Koristite ovaj prilagođeni vizuelni element da biste napravili toplotnu mapu tabele koja se može koristiti za vizuelizaciju i poređenje vrednosti podataka na jednostavan i intuitivan način.\nU ovom vizuelnom elementu imate ugrađenu opciju da navedete broj kontejnera korišćenih za razdvajanje podataka.\nPored toga, možete i da ga prilagodite tako što ćete odabrati šemu boja u skladu sa bojama svog brenda"
 }

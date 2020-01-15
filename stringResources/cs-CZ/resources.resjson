@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Popisky dat osy x",
 	"Visual_YAxis": "Popisky dat osy y",
 	"Visual_MaxTextSymbols": "Max. počet symbolů v textu",
-	"Visual_Description_DisplayAllLabelsAnyway": "Přesto zobrazit všechny popisky"
+	"Visual_Description_DisplayAllLabelsAnyway": "Přesto zobrazit všechny popisky",
+	"Heatmap_Short_Description": "Porovnání dat snadno a intuitivně pomocí barev v tabulce",
+	"Heatmap_Long_Description": "Pomocí tohoto vlastního vizuálu můžete sestavit heat mapu tabulky, kterou lze použít k snadné a intuitivní vizualizaci a porovnání hodnot dat.\nPřímo v rámci vizuálu máte možnost určit počet kbelíků použitých k rozdělení dat.\nKromě toho je také můžete přizpůsobit volbou barevného schématu v souladu s barvami vaší značky"
 }

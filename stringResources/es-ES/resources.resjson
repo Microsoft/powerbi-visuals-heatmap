@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Etiquetas de datos del eje X",
 	"Visual_YAxis": "Etiquetas de datos del eje Y",
 	"Visual_MaxTextSymbols": "Valor symbold de texto máximo",
-	"Visual_Description_DisplayAllLabelsAnyway": "Mostrar todas las etiquetas igualmente"
+	"Visual_Description_DisplayAllLabelsAnyway": "Mostrar todas las etiquetas igualmente",
+	"Heatmap_Short_Description": "Permite comparar datos de forma fácil e intuitiva con colores en una tabla.",
+	"Heatmap_Long_Description": "Use este objeto visual personalizado para crear un mapa térmico de tabla que puede usarse para visualizar y comparar valores de datos de una forma fácil e intuitiva.\nEste objeto visual ofrece una opción integrada para especificar el número de cubos usados para dividir los datos.\nAdemás, también puede personalizarlo si selecciona una combinación de colores adecuada para sus colores de marca."
 }

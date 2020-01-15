@@ -21,5 +21,7 @@
 	"Visual_XAxis": "Étiquettes des données de l'axe X",
 	"Visual_YAxis": "Étiquettes des données de l'axe Y",
 	"Visual_MaxTextSymbols": "Nombre maximal de symboles de texte",
-	"Visual_Description_DisplayAllLabelsAnyway": "Afficher quand même toutes les étiquettes"
+	"Visual_Description_DisplayAllLabelsAnyway": "Afficher quand même toutes les étiquettes",
+	"Heatmap_Short_Description": "Comparer de manière simple et intuitive les données d'une table en utilisant des couleurs",
+	"Heatmap_Long_Description": "Utilisez ce visuel personnalisé pour créer une carte thermique sous forme de table qui permet de visualiser et de comparer des valeurs de données de manière simple et intuitive.\nCe visuel intègre une option vous permettant de spécifier le nombre de compartiments utilisés pour fractionner les données.\nVous pouvez également le personnaliser en choisissant un modèle de couleurs qui reflète les couleurs de votre marque"
 }

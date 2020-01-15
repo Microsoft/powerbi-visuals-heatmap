@@ -21,5 +21,7 @@
 	"Visual_XAxis": "X 軸資料標籤",
 	"Visual_YAxis": "Y 軸資料標籤",
 	"Visual_MaxTextSymbols": "最大文字符號",
-	"Visual_Description_DisplayAllLabelsAnyway": "一律顯示所有標籤"
+	"Visual_Description_DisplayAllLabelsAnyway": "一律顯示所有標籤",
+	"Heatmap_Short_Description": "在表格中使用色彩，以簡單又直覺的方式比較資料",
+	"Heatmap_Long_Description": "使用這個自訂視覺效果來建立表格熱度圖，用來透過簡單又直覺的方式以視覺呈現及比較資料值。\n這個視覺效果有內建選項，供您指定要用於分割資料的貯體數目。\n此外，您也可以藉由選擇與品牌色彩一致的色彩配置，來加以自訂"
 }
