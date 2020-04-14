@@ -10,7 +10,7 @@
     "d3": "5.7.0",
     "extra-watch-webpack-plugin": "^1.0.3",
     "image-to-base64": "^2.0.1",
-    "jquery": "3.4.0",
+    "jquery": "3.5.0",
     "json-loader": "^0.5.7",
     "less-loader": "^4.1.0",
     "powerbi-visuals-api": "^2.3.1",
