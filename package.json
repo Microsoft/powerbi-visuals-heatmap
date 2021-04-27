@@ -6,7 +6,7 @@
   "name": "TableHeatmap",
   "version": "2.0.1",
   "dependencies": {
-    "css-loader": "^2.1.0",
+    "css-loader": "^5.0.0",
     "d3": "5.7.0",
     "extra-watch-webpack-plugin": "^1.0.3",
     "image-to-base64": "^2.0.1",
